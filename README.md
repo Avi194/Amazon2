@@ -1,2 +1,2 @@
-# amazon2
-Hi!
+# amazon
+amazon
